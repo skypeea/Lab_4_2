@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"D:\source\RevitApps\Lab_4_2.dll"</Assembly>
+		<AddInId>3479AA2A-BCE3-4F18-B4F7-73DD4EB26F4E</AddInId>
+		<FullClassName>Lab_4_2.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>ВЫВОД ЗНАЧЕНИЙ ТРУБ</Text>
+	</AddIn>
+</RevitAddIns>
